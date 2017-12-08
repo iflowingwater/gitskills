@@ -1,6 +1,6 @@
 # gitskills
 
-Git is a software.
+Git is a free software.
 Creating a new branch is quick and simple.
 New Branch dev.
 Conflict fixed.
